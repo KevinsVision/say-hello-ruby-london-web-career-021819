@@ -5,5 +5,5 @@ puts "Hello #{Kent Beck}!"
 end
 
 def say_hello(name)
-   "Hello #{name}"
+ puts  "Hello #{name}"
 end
